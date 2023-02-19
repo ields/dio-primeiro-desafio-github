@@ -70,6 +70,7 @@
 # 2. Ambiente de desenvolvimento Ubuntu
 
 ## 2.1 Instalação JDK e Git no Ubuntu
+
 Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 
 [Instalação JDK](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20OpenJDK)
@@ -77,17 +78,32 @@ Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 [Instalação Git](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=./idea.sh-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20Git,-%F0%9F%94%B8)
 
 ## 2.2 Instalação Intellij e Eclipse no Ubuntu
+
 Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 
-[Instalação Eclipse](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=Cr%C3%A9ditos%3A%20DevSuperior-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20Eclipse,-%F0%9F%94%B8)
-
 [Instalação Intellij IDEA Community](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=IDE%20no%20Dock-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20IntelliJ%20IDEA%20Community,-%F0%9F%94%B8)
+
+**Adicionar atalho**: barra superior - "tools", "create desktop entry", selecionar "create the entry for all users"
+
+[Instalação Eclipse](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=Cr%C3%A9ditos%3A%20DevSuperior-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20Eclipse,-%F0%9F%94%B8)
 
 # 3. Ambiente de desenvolvimento Windows
 
 ## 3.1 Instalação JDK e Git no Windows
 
+Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
+
+[Instalação JDK Zulu](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=WINDOWS-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20JDK%20Zulu,-Aqui%20no%20windows)
+
+[Instalação Git](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=pronta%20para%20uso!-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20Git,-%F0%9F%94%B9)
+
 ## 3.2 Instalação Intellij e Eclipse no Windows
+
+Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
+
+[Instalação IntelliJ](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=WINDOWS-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20JDK%20Zulu,-Aqui%20no%20windows)
+
+[Instalação Eclipse](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=pronta%20para%20uso!-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20Git,-%F0%9F%94%B9)
 
 # 4. Eclipse
 
