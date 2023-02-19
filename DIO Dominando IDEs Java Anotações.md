@@ -71,12 +71,16 @@
 
 ## 2.1 Instalação JDK e Git no Ubuntu
 Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
+
 [Instalação JDK](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20OpenJDK)
+
 [Instalação Git](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=./idea.sh-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20Git,-%F0%9F%94%B8)
 
 ## 2.2 Instalação Intellij e Eclipse no Ubuntu
 Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
+
 [Instalação Eclipse](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=Cr%C3%A9ditos%3A%20DevSuperior-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20Eclipse,-%F0%9F%94%B8)
+
 [Instalação Intellij IDEA Community](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=IDE%20no%20Dock-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20IntelliJ%20IDEA%20Community,-%F0%9F%94%B8)
 
 # 3. Ambiente de desenvolvimento Windows
