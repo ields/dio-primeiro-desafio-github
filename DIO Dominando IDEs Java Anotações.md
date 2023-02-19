@@ -109,9 +109,35 @@ Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 
 ## 4.1 Criando seu primeiro projeto com Eclipse
 
+[Eclipse documentation](https://www.eclipse.org/documentation/)
+
 ## 4.2 Atalhos
 
+- alt+setas cima/baixo (selecionar linhas e mover)
+- alt+shift+x e j (executar programa em java)
+- ctrl+3 (menu)
+	- perspectives (mudar perspectiva da IDE)
+		- ex.: git, debug, java
+	- constructor (gerar construtores)
+	- getters (gerar getters e setters)
+	- equals (gerar hashcode and equals)
+	- tostring (gerar toString)
+- ctrl+espaço (lista de propostas de templates)
+	- selecionar + enter
+	- ex.:
+		- main (public static void main)
+		- sysout (System.out.println)
+		- new (gerar objeto) ex.: Scanner
+- ctrl+n (gerar projeto, classe etc)
+- ctrl+shift+f (formatar código)
+- ctrl+shift+o (importar classe)
+- package+F2 (mudar o nome do package)
+
 ## 4.3 Git e GitHub
+
+[Git documentation](https://git-scm.com/docs)
+
+[GitHub documentation](https://docs.github.com/pt)
 
 ## 4.4 Debug
 
