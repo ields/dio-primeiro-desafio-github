@@ -1,4 +1,4 @@
-# Desafio DIO: Projeto Git/GitHub
+# Primeiro Desafio DIO: Projeto Git/GitHub
 Repositório do primeiro desafio de projeto
 
 ## Links úteis
