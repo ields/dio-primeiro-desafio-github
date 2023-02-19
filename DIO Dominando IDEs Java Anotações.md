@@ -68,23 +68,43 @@
 - Intellij IDEA: escrito em java, edição da comunidade licenciada Apache 2 e edição comercial proprietária
 
 # 2. Ambiente de desenvolvimento Ubuntu
+
 ## 2.1 Instalação JDK e Git no Ubuntu
+Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
+[Instalação JDK](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20OpenJDK)
+[Instalação Git](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=./idea.sh-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20Git,-%F0%9F%94%B8)
+
 ## 2.2 Instalação Intellij e Eclipse no Ubuntu
+Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
+[Instalação Eclipse](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=Cr%C3%A9ditos%3A%20DevSuperior-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20Eclipse,-%F0%9F%94%B8)
+[Instalação Intellij IDEA Community](https://github.com/cami-la/curso-dio-dominando-ides-java#-%EF%B8%8F-ubuntu:~:text=IDE%20no%20Dock-,%F0%9F%94%BA,Instala%C3%A7%C3%A3o%20IntelliJ%20IDEA%20Community,-%F0%9F%94%B8)
 
 # 3. Ambiente de desenvolvimento Windows
+
 ## 3.1 Instalação JDK e Git no Windows
+
 ## 3.2 Instalação Intellij e Eclipse no Windows
 
 # 4. Eclipse
+
 ## 4.1 Criando seu primeiro projeto com Eclipse
+
 ## 4.2 Atalhos
+
 ## 4.3 Git e GitHub
+
 ## 4.4 Debug
+
 ## 4.5 Últimas observações sobre Eclipse
 
 # 5. Intellij
+
 ## 5.1 Criando seu primeiro projeto com IntelliJ
+
 ## 5.2 Mais atalhos e versionamento
+
 ## 5.3 Debug
+
 ## 5.4 Plugins
+
 ## 5.5 Outra opção de IDE: Visual Studio Code
