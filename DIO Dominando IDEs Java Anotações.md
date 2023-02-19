@@ -9,8 +9,8 @@
 
 ### 1. História do Java
 - linguagem de programação orientada a objetos
-- 1991: criação pela Sun Microsystems (Deitel, 2010)
-- 1995: anúncio/lançamento em conferência (Deitel, 2010)
+- década de 1990: criação pela Sun Microsystems
+- 1995: lançamento
 - 2008: aquisição pela Oracle
 - popularidade: uso na internet (presente em navegadores, programas, jogos, celular, calculadoras etc)
 
@@ -66,10 +66,6 @@
 - JDK faz parte do funcionamento das IDE's (ex.: Intellij, Eclipse, Netbeans etc)
 - Eclipse: suporta Java e outras linguagens, feito em java e modelo open source
 - Intellij IDEA: escrito em java, edição da comunidade licenciada Apache 2 e edição comercial proprietária
-
-Referências auxiliares:
-DEITEL, Harvey M. Java como programar. 8 ed. Trad: Edson Furmankiewicz. São Paulo: Pearson Prentice Hall, 2010.
-
 
 # 2. Ambiente de desenvolvimento Ubuntu
 ## 2.1 Instalação JDK e Git no Ubuntu
