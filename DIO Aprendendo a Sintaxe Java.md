@@ -43,3 +43,15 @@
 - [Gitbook Glysns Métodos](https://glysns.gitbook.io/java-basico/sintaxe/metodos)
     - Critério de nomeação
     - Critério de definição
+
+**Escopo**
+- [Gitbook Glysns Escopo](https://glysns.gitbook.io/java-basico/sintaxe/escopo)
+
+**Palavras reservadas**
+- [Gitbook Glysns Palavras Reservadas](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas)
+
+**Documentação (Java doc)**
+- [Gitbook Glysns Documentação](https://glysns.gitbook.io/java-basico/sintaxe/documentacao)
+
+**Terminal e Argumentos**
+- [Gitbook Glysns Terminal e Argumentos](https://glysns.gitbook.io/java-basico/sintaxe/terminal-e-argumentos)
