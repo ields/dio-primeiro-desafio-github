@@ -122,6 +122,7 @@ Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 	- getters (gerar getters e setters)
 	- equals (gerar hashcode and equals)
 	- tostring (gerar toString)
+- ctrl+alt+setas (duplicar linhas acima ou abaixo)
 - ctrl+espaço (lista de propostas de templates)
 	- selecionar + enter
 	- ex.:
@@ -131,6 +132,9 @@ Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 - ctrl+n (gerar projeto, classe etc)
 - ctrl+shift+f (formatar código)
 - ctrl+shift+o (importar classe)
+- ctrl+shift+t (open type - buscar item - ex.: classes criadas)
+- ctrl+shift+w (fechar todas as abas)
+- ctrl+w (fechar aba)
 - package+F2 (mudar o nome do package)
 
 ## 4.3 Git e GitHub
@@ -141,7 +145,20 @@ Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 
 ## 4.4 Debug
 
+- 2 cliques lateral esquerda (antes do nº da linha)
+- mouse dir (janela do código) + "debug as" java; ou
+- alt+shift+d e J
+- switch (perspective)
+- F5 (step into - entra no método)
+- F6 (step over)
+- F7 (step return - sair do método)
+- F8 (resume)
+- ctrl+F2 (terminate)
+
 ## 4.5 Últimas observações sobre Eclipse
+
+- importar projeto (file\import...\"project"\existing projects into workspace)
+- build path
 
 # 5. Intellij
 
