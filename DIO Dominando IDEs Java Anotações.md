@@ -130,6 +130,7 @@ Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 		- sysout (System.out.println)
 		- new (gerar objeto) ex.: Scanner
 - ctrl+n (gerar projeto, classe etc)
+- ctrl+shift+c (comentar bloco)
 - ctrl+shift+f (formatar código)
 - ctrl+shift+o (importar classe)
 - ctrl+shift+t (open type - buscar item - ex.: classes criadas)
@@ -164,10 +165,137 @@ Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 
 ## 5.1 Criando seu primeiro projeto com IntelliJ
 
+**Customize**
+- cor
+- fonte
+
+**Plugins**
+- key promoter
+
+**Criar projeto**
+- new project
+- java
+- next
+- prj name (primeiro-programa-intellij)
+- create
+
+**Projeto**
+- src
+- criar pacote
+- alt+insert
+- package (br.com.dio)
+- criar classe
+- alt+insert
+- java class
+- class (PrimeiroPrograma)
+
+**Código**
+- main + ctrl+espaço + enter (public static void main)
+- sout + ctrl+espaço + enter (Syste.out.println)
+- print (Hello world!)
+- ctrl+shift+F10 (add config e executar)
+- declarar variáveis a (5) e b (3)
+- print (a + b)
+- shift+F10 (executar)
+
+**Novo pacote**
+- br.com.dio
+- alt+insert
+- package (br.com.dio.model)
+- model
+- alt+insert
+- java class
+- class (Gato)
+
+**Classe Gato**
+- class Gato (nome, cor, idade)
+- janela do código
+- alt+insert
+- constructor (selecionar tudo)
+- alt+insert
+- getters n setters (selecionar tudo)
+- alt+insert
+- equals n hashcode\fields equals(todos)\fields hash (todos)\non null (nenhum)
+- alt+insert
+- toString (selecionar tudo)
+
+**Classe principal**
+- ctrl+shift+barra (comentar bloco criado anteriormente)
+- Gato gato = new Gato();
+- selecionar "Gato" + alt+enter (importar classe)
+- sout + ctrl+espaço + enter
+- print (gato)
+- shift+F10
+- ctrl+y (apaga linha)
+
+**Fechar projeto**
+- file\close project
+
 ## 5.2 Mais atalhos e versionamento
+
+**Atalhos**
+- shift+F6 (altera classe - PrimeiroProgramaJava)
+- shift+f12 (apenas editor de texto)
+- ctrl+alt+L (organiza código)
+- ctrl+b (selecionado classe - ir até classe)
+- ctrl+d (duplicar linha)
+- ctrl+F4 (fechar abas)
+- ctrl+n (buscar classes)
+- ctrl+y (deleta linha)
+- ctrl+shift+seta cima/baixo (mover linha)
+- [Basef Lista de atalhos Intellij](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
+- [JetBrains Lista de atalhos Intellij](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
+
+**Novo repositório**
+- GitHub
+- nome (teste-curso-dio-ides-java-intellij)
+- copiar link
+- intellij
+- vcs\enable version...\Git
+- ctrl+k (commit)
+- selecionar tudo
+- commit n push
+- define remote (nome+url)
+- push tags (all)
+- push (login via github)
+
+**Nova classe na classe principal**
+- class Livro(){} (nome e pags)
+- alt+insert
+- constructor
+- alt+insert
+- getters n setters
+- alt+insert
+- tostring
+- Livro Livro1 = new Livro("nome", 300);
+- commit+push
 
 ## 5.3 Debug
 
+**Comandos Debug**
+- breakpoint (clique esq lateral esq da linha)
+- clique dir (debug)
+- ctrl+F2 (stop)
+- ctrl+F5 (return)
+- F7 (step into)
+- alt+shift+F7 (force step into)
+- F8 (step over)
+- shift+F8 (step out)
+- F9 (resume)
+- alt+F9 (run to cursor)
+
+**Editar projeto**
+- file\project structure; ou
+- ctrl+alt+shift+S
+
 ## 5.4 Plugins
+
+**Adicionar plugins**
+- file\settings\plugins
+- rainbow brackets (chaves coloridas)
+- nyan progress bar (barra de carregamento colorida(?))
+- git tool box (mensagens de commit)
+- key promoter x (sugestão de atalho)
+- one dark theme (não precisa reiniciar)
 
 ## 5.5 Outra opção de IDE: Visual Studio Code
