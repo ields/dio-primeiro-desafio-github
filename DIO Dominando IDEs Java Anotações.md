@@ -4,6 +4,7 @@
 3. Ambiente de desenvolvimento Windows
 4. Eclipse
 5. Intellij
+6. Visual Studio Code (VS Code)
 
 # 1. Visão geral da linguagem de programação Java e da sua plataforma
 
@@ -298,4 +299,18 @@ Repositório Curso DIO Dominando IDEs Java - Camila Cavalcanti
 - key promoter x (sugestão de atalho)
 - one dark theme (não precisa reiniciar)
 
-## 5.5 Outra opção de IDE: Visual Studio Code
+# 6. Visual Studio Code (VS Code)
+
+**Extensões**
+- github theme
+- java extension pack
+
+**Controle de versionamento (clonar repositório)**
+- controle do código fonte (menu lateral esq); ou
+- ctrl+shift+g
+- copiar código do repositório
+- clone repository (colar url)
+- autorizar integração
+- pasta (ide-vscode)
+- abrir código
+- run\run without debugging (ctrl+F5)
